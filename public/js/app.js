@@ -1,10 +1,3 @@
-console.log("Hello");
-// fetch('http://puzzle.mead.io/puzzle').then((response)=>{
-//     response.json().then((data)=>{
-//         console.log(data);
-//     })
-// })
-
 const weather=document.querySelector('form');;
 const searchLocation=document.querySelector('input');
 const messageOne=document.querySelector('#message-1');
